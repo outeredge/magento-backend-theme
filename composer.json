@@ -1,0 +1,24 @@
+{
+    "name": "outeredge/magento-backend-theme",
+    "description": "Magento Backend Theme by outer/edge",
+    "type": "magento2-theme",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "outer/edge",
+            "email": "hello@outeredgeuk.com",
+            "homepage": "https://outeredgeuk.com/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "7.0.2|7.0.4|~7.0.6|~7.1.0"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
